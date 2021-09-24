@@ -8,6 +8,4 @@ Me gusta aprender nuevas cosas, abierto a opiniones y criterios de las demás pe
 
 <h1>Find me around the web</h1>
 
-<ol>
-    <li><link href="https://www.linkedin.com/in/johan-zambrano-b537501bb/" TITLE="LinkedIn"></li>
-</ol>
+<link href="https://www.linkedin.com/in/johan-zambrano-b537501bb/" TITLE="LinkedIn"></li>
