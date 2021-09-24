@@ -2,9 +2,9 @@
 
 ![JOHAN ZAMBRANO](https://user-images.githubusercontent.com/25967495/134699593-5d7b74ac-93c4-42ed-904f-52cd89bbc3d1.png)
 
-Soy una persona proactiva, autodidacta y con ganas de aprender nuevas experiencias y técnicas de programación en el desarrollo de software ya sea enfocado en la web o móvil.
+I am a proactive person, self-taught and eager to learn new experiences and programming techniques in software development, whether focused on the web or mobile.
 
-Me gusta aprender nuevas cosas, abierto a opiniones y criterios de las demás personas con el fin de generar nuevos conocimientos y aptitudes que me ayuden a mejorar mi perfil profesional.
+I like to learn new things, open to opinions and criteria of other people in order to generate new knowledge and skills that help me improve my professional profile.
 
 <h2>Find me around the web👁‍🗨👉:</h2>
 
