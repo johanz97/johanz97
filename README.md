@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
-<!--
-**johanz97/johanz97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JOHAN ZAMBRANO](https://user-images.githubusercontent.com/25967495/134699593-5d7b74ac-93c4-42ed-904f-52cd89bbc3d1.png)
 
-Here are some ideas to get you started:
+Soy una persona proactiva, autodidacta y con ganas de aprender nuevas experiencias y técnicas de programación en el desarrollo de software ya sea enfocado en la web o móvil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta aprender nuevas cosas, abierto a opiniones y criterios de las demás personas con el fin de generar nuevos conocimientos y aptitudes que me ayuden a mejorar mi perfil profesional.
+
+<h1>Find me around the web</h1>
+
+<ol>
+    <li><link href="https://www.linkedin.com/in/johan-zambrano-b537501bb/" TITLE="LinkedIn"></li>
+</ol>
