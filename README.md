@@ -6,6 +6,6 @@ Soy una persona proactiva, autodidacta y con ganas de aprender nuevas experienci
 
 Me gusta aprender nuevas cosas, abierto a opiniones y criterios de las demás personas con el fin de generar nuevos conocimientos y aptitudes que me ayuden a mejorar mi perfil profesional.
 
-<h1>Find me around the web</h1>
+<h3>Find me around the web</h3>
 
-<link href="https://www.linkedin.com/in/johan-zambrano-b537501bb/" TITLE="LinkedIn">
+<A HREF="https://www.linkedin.com/in/johan-zambrano-b537501bb/">LinkedIn</A>
