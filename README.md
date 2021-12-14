@@ -6,6 +6,8 @@ I am a proactive person, self-taught and eager to learn new experiences and prog
 
 I like to learn new things, open to opinions and criteria of other people in order to generate new knowledge and skills that help me improve my professional profile.
 
+I am currently in the position of Flutter developer at Supercash.
+
 <h2>Find me around the web👁‍🗨👉:</h2>
 
 <ul>
